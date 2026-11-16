@@ -1,6 +1,5 @@
  <!-- -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/336258364?v=4" width="112" alt="ZaZa International" />
   <h1>ZaZa International</h1>
   <p><strong>Building software for real-world challenges.</strong></p>
   <p>AI · Machine Learning · Digital Products · Software Engineering</p>
