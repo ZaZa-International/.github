@@ -1,7 +1,6 @@
  <!-- -->
 <div align="center">
   <h1>ZaZa International</h1>
-  <p><strong>Building software for real-world challenges.</strong></p>
   <p>AI · Machine Learning · Digital Products · Software Engineering</p>
 </div>
 
@@ -34,7 +33,9 @@ A system designed to handle common appointment journeys: booking, rescheduling, 
 - Local speech-to-text and text-to-speech components
 - Structured dialogue outcomes and integration with a medical information system
 
-[Explore the repository →](https://github.com/ZaZa-International/voice-assistant)
+[Explore the repository →](https://github.com/ZaZa-International/voice-assistant) · [Open the project demo](https://voice.zazainternational.ru)
+
+---
 
 ### [Kaspian Digital Forum](https://github.com/ZaZa-International/kaspian-digital-forum)
 
@@ -48,48 +49,10 @@ An interactive logistics workspace exploring route planning, shipment visibility
 
 [Explore the repository →](https://github.com/ZaZa-International/kaspian-digital-forum) · [Open the project demo](https://kdf.zazainternational.ru)
 
-### [ML Training](https://github.com/ZaZa-International/ml-training)
-
-**Training and evaluation pipeline for conversational NLU.**
-
-A reproducible workflow for training intent and slot models used by the voice-assistant project. It covers data preparation, model training, confidence calibration, evaluation, export, and CPU benchmarking.
-
-- Python · PyTorch · Transformers
-- Reproducible train/validation/test splits
-- Metrics, model artifacts, and documented dataset limitations
-
-[Explore the repository →](https://github.com/ZaZa-International/ml-training)
-
 ---
-
-## How we build
-
-- **Useful over flashy.** We prioritize working software and meaningful outcomes.
-- **Transparent by design.** We document assumptions, limitations, and what is simulated versus connected to live data.
-- **Reproducible work.** We value repeatable setup, tests, evaluation, and clear project documentation.
-- **Responsible engineering.** We consider privacy, security, reliability, and human oversight in system design.
-- **Learning in public.** We share experiments and improve our work through feedback.
-
-## Collaboration
-
-We welcome thoughtful collaboration, technical feedback, and conversations around our areas of focus.
-
-You can get involved by:
-
-- Opening an issue with a bug report, question, or feature proposal.
-- Submitting a pull request with a focused change.
-- Sharing feedback on architecture, usability, documentation, or evaluation.
-
-Before contributing, read the contribution instructions in the relevant repository. Not every repository currently has the same contribution process or license, so check its own README and license before reusing code.
 
 ## Contact
 
 For collaboration, project enquiries, or general questions:
 
 **[contact@zazainternational.ru](mailto:contact@zazainternational.ru)**
-
----
-
-<div align="center">
-  <sub>Built with curiosity. Engineered with purpose.</sub>
-</div>
